@@ -13,11 +13,8 @@ Red: Current hour and events.
 Green: Future events and hours.
 
 Clicking the blue save button to the right of the box saves your input, allowing you to come back and see your schedule even if you closed the page!
-
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![Screenshot of the wor kday scheduler](assets/images/WorkDayScreenshot.png)
+Check it out [here](https://chemicalmodel.github.io/Daily-Calendar/)!
 
 ## Credits
 
